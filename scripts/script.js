@@ -34,7 +34,7 @@ tl.fromTo(
 tl.fromTo(
   '.intro-social',
   { x: '-100%', opacity: 0 },
-  { x: '10.5%', opacity: 1 },
+  { x: '0%', opacity: 1 },
   '<30%'
 );
 
